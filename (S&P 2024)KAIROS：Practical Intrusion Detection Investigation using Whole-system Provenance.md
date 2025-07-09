@@ -61,7 +61,6 @@ $$
 二者的重构误差较小，因此认为是正常行为。
 但如果出现：$$python \rightarrow exac \rightarrow /bin/sh$$
 结构与之前严重不符，解码器无法准确预测，则判断为异常边。
-$$$$
 - [I] 时序建模：TGN(2020)仅对时间戳进行拼接，对于时序建模能力较弱，可以替换为Temporal Positional Encoding、Time-aware Attention
 - [I] 解码器目标设计单一：仅预测边的类型。可以拓展为多任务学习，在预测边的基础上预测节点属性、或者访问的目标是否合规
 ### 2.3 异常检测

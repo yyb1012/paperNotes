@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d40eb7d143048c3e",
+  "active": "47ebca01e379c8cb",
   "lastOpenFiles": [
+    "未命名.md",
+    "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance.md",
     "Pasted image 20250709154043.png",
     "Pasted image 20250709155626.png",
-    "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance.md",
     "新建文件夹",
     "图构建与表示.md",
     "2025-07-09.md",
