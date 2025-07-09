@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#5f82b9",
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "微软雅黑",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "style"
+  ]
+}

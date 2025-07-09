@@ -1,0 +1,11 @@
+/* 调整编辑模式和预览模式的行间距 */
+.markdown-source-view,
+.markdown-preview-view {
+  line-height: 1.8; /* 修改此值来调整行间距，建议范围 1.5-2.0 */
+}
+/* 调整段落前后的间距 */
+.markdown-preview-view p,
+.markdown-source-view.mod-cm6 .cm-contentContainer p {
+  margin-top: 0.6em;    /* 修改此值调整段前间距 */
+  margin-bottom: 0.6em; /* 修改此值调整段后间距 */
+}
