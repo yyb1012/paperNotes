@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ebca01e379c8cb",
+            "id": "4ab3961edb671f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(USENIX 2025)ORTHRUS：Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems.md",
+                "file": "研究路线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(USENIX 2025)ORTHRUS：Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems"
+              "title": "研究路线"
             }
           },
           {
-            "id": "1431f669da1c3d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(USENIX 2024)MAGIC：Detecting Advanced Persistent Threats via Masked Graph Representation Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(USENIX 2024)MAGIC：Detecting Advanced Persistent Threats via Masked Graph Representation Learning"
-            }
-          },
-          {
-            "id": "5f9a55865f2de379",
+            "id": "90f807fd9ece916e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +35,7 @@
               "title": "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fb024204e051118",
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance.md",
+                "file": "研究路线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance 的大纲"
+              "title": "研究路线 的大纲"
             }
           },
           {
@@ -208,19 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1431f669da1c3d6c",
+  "active": "d40eb7d143048c3e",
   "lastOpenFiles": [
-    "Pasted image 20250715215738.png",
-    "(USENIX 2025)ORTHRUS：Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems.md",
-    "(USENIX 2024)MAGIC：Detecting Advanced Persistent Threats via Masked Graph Representation Learning.md",
-    "Pasted image 20250715171443.png",
     "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance.md",
-    "未命名.md",
+    "(USENIX 2024)MAGIC：Detecting Advanced Persistent Threats via Masked Graph Representation Learning.md",
+    "研究路线.md",
+    "(USENIX 2025)ORTHRUS：Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems.md",
+    "溯源图2025.md",
+    "未命名 1.md",
+    "Pasted image 20250811232058.png",
+    "Pasted image 20250811231232.png",
+    "Pasted image 20250811230057.png",
+    "Pasted image 20250811225138.png",
+    "Pasted image 20250715215738.png",
+    "Pasted image 20250715171443.png",
     "Pasted image 20250714163226.png",
     "Pasted image 20250714163152.png",
     "Pasted image 20250714160610.png",
     "Pasted image 20250709154043.png",
-    "Pasted image 20250709155626.png",
     "新建文件夹",
     "图构建与表示.md",
     "2025-07-09.md",
