@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "研究路线.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d40eb7d143048c3e",
+  "active": "4ab3961edb671f22",
   "lastOpenFiles": [
     "(S&P 2024)KAIROS：Practical Intrusion Detection Investigation using Whole-system Provenance.md",
     "(USENIX 2024)MAGIC：Detecting Advanced Persistent Threats via Masked Graph Representation Learning.md",
