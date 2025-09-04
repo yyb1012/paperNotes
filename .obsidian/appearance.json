@@ -4,7 +4,7 @@
   "cssTheme": "AnuPpuccin",
   "monospaceFontFamily": "Source Code Pro",
   "textFontFamily": "微软雅黑",
-  "baseFontSize": 18,
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "style"
